@@ -1,6 +1,9 @@
-,hist_mean,hist_std,1990_2019_mean,rcp45_mean,rcp45_max,rcp85_mean,rcp85_max,risk_rcp45,risk_rcp85
+,hist_mean,hist_std,1990_2019_mean,rcp45_mean,rcp45_max,rcp85_mean,rcp85_max,shifting_rcp45,shifting_rcp85
 Annual precipitation (mm/day),2.82,0.09,2.89,3.0,3.36,3.07,3.35,3,3
 Extreme precipitation day,2.07,1.49,2.75,2.81,8.24,3.33,9.33,1,2
 Annual avg Tmax (C),18.35,0.37,19.01,20.52,21.63,21.5,24.43,3,3
 Maximum Daily Precipitation (mm/day),46.51,14.41,50.18,50.8,99.1,56.9,131.0,1,2
 SPEI,0.0,0.24,0.01,0.32,-0.53,0.36,-0.52,0,0
+Heating Degree Days,5014.62,386.64,,4169.95,5306.38,3878.11,5287.43,0,0
+Extreme Degree Days,0.0,0.0,,0.11,3.0,2.55,35.66,3,3
+Cooling Degree Days,896.02,137.77,,1456.41,2017.84,1788.06,2966.0,3,3
